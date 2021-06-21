@@ -1,0 +1,91 @@
+
+body{
+	background:url(12.jpg);
+}
+
+
+.footer{
+    font-family: 'Big Shoulders Stencil Display' ;
+    font-size: 30px;
+    font-weight: bold;
+    color: #f4f5f4;
+    padding: 0.1%;
+    bottom: 0px;
+}
+
+h1{
+    color: white;
+    text-align: center;
+	font-family: 'Noto Sans JP';
+}
+
+a.imagelink{
+    text-decoration:none;
+}
+
+.marq H2
+{
+    color: rgb(8, 8, 8);
+    font-size: 40px;
+    font-family: 'Ubuntu';
+}  
+
+.c2{
+	color:crimson;
+	font-size:60px;
+	text-align:center;
+	font-family:'Big Shoulders Stencil Display';
+}
+button{
+	border:none;
+	border-radius: 8px;
+	padding: 14px;
+	background:#7B8788; 
+	color:rgb(23, 11, 187);
+	letter-spacing: 2px;
+	font-size: 16px;
+	transition: 0.5s;
+}
+
+button:hover{
+	transform: scale(1.1);
+	color:rgb(23, 11, 187);
+	background-color:#f3efef;
+}
+
+
+.c1{
+	border:none;
+	border-radius: 8px;
+	padding: 14px;
+	background:#0c3e88; 
+	color:black;
+	letter-spacing: 2px;
+	font-size: 16px;
+	transition: 0.5s;
+}
+
+
+
+.c3{
+	border:none;
+	border-radius: 8px;
+	padding: 14px;
+	background:#c5c21d; 
+    color:#17538f;
+	letter-spacing: 2px;
+	font-size: 16px;
+	transition: 0.5s;
+}
+.mb-1{
+	color:darkblue
+}
+.cdata
+{
+    text-align: center;
+    color: rgb(25, 194, 206);
+    font-size: 40px;
+    font-family: 'Ubuntu';
+}
+
+
